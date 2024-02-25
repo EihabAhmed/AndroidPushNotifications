@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401958825430",
+    "project_id": "notifications-testing-dd67d",
+    "storage_bucket": "notifications-testing-dd67d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401958825430:android:28368d12bd0d62dabf0877",
+        "android_client_info": {
+          "package_name": "com.bbk.notificationstesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcP1do9uFjxn_hil8fKQMLYR5cguW5JPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
